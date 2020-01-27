@@ -1,11 +1,15 @@
 // ==UserScript==
-// @name         PandaFlag
-// @namespace    http://tampermonkey.net/
-// @version      0.1.0
-// @description  Add language flag to hentai mangas.
-// @author       chuang861012
-// @homepage     https://github.com/chuang861012
-// @match        https://exhentai.org/*
-// @match        https://e-hentai.org/*
-// @grant        none
+// @name                PandaFlag
+// @name:zh-TW          PandaFlag
+// @name:zh-CN          PandaFlag
+// @namespace           http://tampermonkey.net/
+// @version             0.1.2
+// @description         Add language flag to hentai mangas.
+// @description:zh-tw   為 e-hentai / exhentai 添加語言旗標
+// @description:zh-cn   为 e-hentai / exhentai 添加语言旗标
+// @author              chuang861012
+// @homepage            https://github.com/chuang861012
+// @match               https://exhentai.org/*
+// @match               https://e-hentai.org/*
+// @grant               none
 // ==/UserScript==
