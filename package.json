@@ -1,0 +1,15 @@
+{
+  "name": "pandaflag",
+  "version": "1.0.0",
+  "description": "Add language flag to hentai mangas.",
+  "main": "./src/index.user.js",
+  "scripts": {
+    "build": "parcel build --no-source-maps --no-content-hash ./src/index.user.js --out-dir ./dist"
+  },
+  "author": "chuang861012",
+  "license": "GNU General Public License v3.0",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-greasemonkey": "^1.0.3"
+  }
+}

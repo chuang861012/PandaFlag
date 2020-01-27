@@ -1,0 +1,11 @@
+// ==UserScript==
+// @name         PandaFlag
+// @namespace    http://tampermonkey.net/
+// @version      0.1.0
+// @description  Add language flag to hentai mangas.
+// @author       chuang861012
+// @homepage     https://github.com/chuang861012
+// @match        https://exhentai.org/*
+// @match        https://e-hentai.org/*
+// @grant        none
+// ==/UserScript==
