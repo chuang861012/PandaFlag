@@ -3,7 +3,7 @@
 // @name:zh-TW          PandaFlag
 // @name:zh-CN          PandaFlag
 // @namespace           http://tampermonkey.net/
-// @version             0.1.3
+// @version             0.1.4
 // @description         Add language flag to hentai mangas.
 // @description:zh-tw   為 e-hentai / exhentai 添加語言旗標
 // @description:zh-cn   为 e-hentai / exhentai 添加语言旗标

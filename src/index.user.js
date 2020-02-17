@@ -1,3 +1,5 @@
+import "regenerator-runtime/runtime";
+
 import { ehApi } from './api';
 import { parseCountryCode, parseLink } from './utils';
 
